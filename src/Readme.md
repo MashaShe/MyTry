@@ -1,6 +1,6 @@
-#Test Project with my homework
+# Test Project with my homework
 
-##Missed Calls task
+## Missed Calls task
 **I should provide:**
 * an opportunity to add missed call to the missed calls list
 * an opportunity to add contact in the contact list
